@@ -1,0 +1,5 @@
+This is an awesome file I added directly from Github.com
+And now I am about to commit directly to GitHub.com remote repository
+This is not something we would do normally
+we are just trying sumulate a ssitation where remote repository history is ahead of local repository history
+in plain english reomote has one additional commit that local does not have 
